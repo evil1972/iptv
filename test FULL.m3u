@@ -1,21 +1,21 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="SK" tvg-id="Jednotka.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/jednotka.png",Jednotka
+#EXTINF:-1 group-title="SK" tvg-id="Jednotka.sk" tvg-logo="https://evil1972.github.io/iptv/logos/jednotka.png",Jednotka
 http://TEST_1001
 #EXTINF:-1 group-title="SK" tvg-id="Dvojka.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/dvojka.png",Dvojka
 http://TEST_1002
 #EXTINF:-1 group-title="SK" tvg-id="TROJKA.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/trojka.png",Trojka
 http://TEST_1003
-#EXTINF:-1 group-title="Sport" tvg-id="RTVSSport.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/rtvssport.png",RTVS äport
+#EXTINF:-1 group-title="Sport" tvg-id="RTVSSport.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/rtvssport.png",RTVS ≈†port
 http://TEST_1004
-#EXTINF:-1 group-title="SK" tvg-id="Markiza.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/markiza.png",MarkÌza
+#EXTINF:-1 group-title="SK" tvg-id="Markiza.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/markiza.png",Mark√≠za
 http://TEST_1011
 #EXTINF:-1 group-title="SK" tvg-id="TVDoma.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/doma.png",Doma
 http://TEST_1012
 #EXTINF:-1 group-title="SK" tvg-id="Dajto.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/dajto.png",Dajto
 http://TEST_1013
-#EXTINF:-1 group-title="SK" tvg-id="MarkizaInt.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/markizaint.png",MarkÌza International
+#EXTINF:-1 group-title="SK" tvg-id="MarkizaInt.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/markizaint.png",Mark√≠za International
 http://TEST_1014
 #EXTINF:-1 group-title="SK" tvg-id="JOJ.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/joj.png",JOJ
 http://TEST_1021
@@ -23,11 +23,11 @@ http://TEST_1021
 http://TEST_1022
 #EXTINF:-1 group-title="SK" tvg-id="Wau.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/wau.png",WAU
 http://TEST_1023
-#EXTINF:-1 group-title="Children" tvg-id="Tuki.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/tukitv.png",çuki TV
+#EXTINF:-1 group-title="Children" tvg-id="Tuki.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/tukitv.png",¬çuki TV
 http://TEST_1024
 #EXTINF:-1 group-title="Children" tvg-id="Jojko.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/jojko.png",Jojko
 http://TEST_1025
-#EXTINF:-1 group-title="Sport" tvg-id="JOJSport.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/jojsport.png",JOJ äport
+#EXTINF:-1 group-title="Sport" tvg-id="JOJSport.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/jojsport.png",JOJ ≈†port
 http://TEST_1026
 #EXTINF:-1 group-title="SK" tvg-id="JOJCinema.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/jojcinema.png",JOJ Cinema
 http://TEST_1027
@@ -45,21 +45,21 @@ http://TEST_1034
 http://TEST_1035
 #EXTINF:-1 group-title="News" tvg-id="TA3day.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/ta3.png",TA3
 http://TEST_1101
-#EXTINF:-1 group-title="CZ" tvg-id="CT1.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct1.png",»T1
+#EXTINF:-1 group-title="CZ" tvg-id="CT1.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct1.png",√àT1
 http://TEST_2001
-#EXTINF:-1 group-title="CZ" tvg-id="CT2.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct2.png",»T2
+#EXTINF:-1 group-title="CZ" tvg-id="CT2.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct2.png",√àT2
 http://TEST_2002
-#EXTINF:-1 group-title="CZ" tvg-id="CT3.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct3.png",»T3
+#EXTINF:-1 group-title="CZ" tvg-id="CT3.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct3.png",√àT3
 http://TEST_2003
-#EXTINF:-1 group-title="CZ" tvg-id="CT24.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct24.png",»T24
+#EXTINF:-1 group-title="CZ" tvg-id="CT24.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ct24.png",√àT24
 http://TEST_2004
-#EXTINF:-1 group-title="CZ" tvg-id="CTsport.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctsport.png",»T Sport
+#EXTINF:-1 group-title="CZ" tvg-id="CTsport.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctsport.png",√àT Sport
 http://TEST_2005
-#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctd(1).png",»T :D
+#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctd(1).png",√àT :D
 http://TEST_2008
-#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctart(1).png",»T Art
+#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctart(1).png",√àT Art
 http://TEST_2009
-#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctd_ctart.png",»T :D / »T Art
+#EXTINF:-1 group-title="CZ" tvg-id="CTart.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ctd_ctart.png",√àT :D / √àT Art
 http://TEST_2010
 #EXTINF:-1 group-title="CZ" tvg-id="NovaTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/nova.png",Nova TV
 http://TEST_2011
@@ -227,9 +227,9 @@ http://TEST_4528
 http://TEST_4529
 #EXTINF:-1 group-title="Music" tvg-id="360TuneBox.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/360tunebox.png",360TuneBox
 http://TEST_5001
-#EXTINF:-1 group-title="Music" tvg-id="Ocko.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ocko.png",”Ëko
+#EXTINF:-1 group-title="Music" tvg-id="Ocko.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ocko.png",√ì√®ko
 http://TEST_5002
-#EXTINF:-1 group-title="Music" tvg-id="OckoGold.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ockostar.png",”Ëko Star
+#EXTINF:-1 group-title="Music" tvg-id="OckoGold.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/ockostar.png",√ì√®ko Star
 http://TEST_5004
 #EXTINF:-1 group-title="Music" tvg-id="Rebel.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/rebel.png",Rebel
 http://TEST_5006
@@ -241,7 +241,7 @@ http://TEST_5008
 http://TEST_5015
 #EXTINF:-1 group-title="Music" tvg-id="LalaTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/lalatv.png",Lala TV
 http://TEST_5017
-#EXTINF:-1 group-title="Music" tvg-id="SlagrTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/slagrtv.png",äl·gr TV
+#EXTINF:-1 group-title="Music" tvg-id="SlagrTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/slagrtv.png",≈†l√°gr TV
 http://TEST_5018
 #EXTINF:-1 group-title="HU" tvg-id="TV2.sk" tvg-logo="https://www.2i.cz/images/2021/07/14/tv2HU.png",TV2
 http://TEST_6032
@@ -251,11 +251,11 @@ http://TEST_9104
 http://TEST_9105
 #EXTINF:-1 group-title="CZ" tvg-id="TVNoe.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/tvnoe.png",TV Noe
 http://TEST_9201
-#EXTINF:-1 group-title="CZ" tvg-id="MnamTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/mnamtv.png",MÚam TV
+#EXTINF:-1 group-title="CZ" tvg-id="MnamTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/mnamtv.png",M√≤am TV
 http://TEST_9202
-#EXTINF:-1 group-title="CZ" tvg-id="MnauTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/mnautv.png",MÚau TV
+#EXTINF:-1 group-title="CZ" tvg-id="MnauTV.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/mnautv.png",M√≤au TV
 http://TEST_9203
-#EXTINF:-1 group-title="CZ" tvg-id="regionalnitelevize.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/regionalnitv.png",Region·lnÌ TV
+#EXTINF:-1 group-title="CZ" tvg-id="regionalnitelevize.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/regionalnitv.png",Region√°ln√≠ TV
 http://TEST_9204
 #EXTINF:-1 group-title="CZ" tvg-id="Seznam.cz" tvg-logo="https://www.2i.cz/images/2021/07/14/tvseznam.png",Seznam.cz TV
 http://TEST_9205
