@@ -1,10 +1,7 @@
-# This works even with really weird filenames like $'--$`\! *@ \a\b\e\E\f\n\r\t\v\\\"\' '
-file_count()
-{
-    if [ ! -e "$1" ]
-    then
-        exit 1
-    fi
-    local -i files=$(find "$(readlink -f -- "$1")" -type f -print0 | grep -cz -- -)
-    echo $files
-}
+#!/bin/bash
+# count inodes for each directory
+LIST=`ls`
+for i in $LIST; do
+echo $i
+find $i -printf "%i\n" | sort -u | wc -l
+done
